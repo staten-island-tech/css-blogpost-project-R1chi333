@@ -1,8 +1,11 @@
 body{
     background-image: url(media/palm.jpg);
-
+    font-family: 'Caveat', cursive;
 }
 .header1{
     text-align: center;
-    background-color: beige;
+    margin-top: 50px;
+    border: 3px solid red;
+    padding: 50px;
+    background-color: bisque;
 }
