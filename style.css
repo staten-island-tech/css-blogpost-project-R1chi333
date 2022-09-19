@@ -1,11 +1,22 @@
 body{
-    background-image: url(media/palm.jpg);
+    background-image: url(media/forest.jpg);
     font-family: 'Caveat', cursive;
 }
 .header1{
     text-align: center;
-    margin-top: 50px;
-    border: 3px solid red;
-    padding: 50px;
-    background-color: bisque;
+    font-size: 70px;
+    color: #443742;
+    border-radius: 25px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    background-color: #EDF4ED;
+}
+.flower1{
+    text-align: center;
+    font-size: 40px; 
+    border-radius: 25px;
+    background: #EDF4ED;
+    padding: 20px;
+    width: 30%;
+    height: 30%;
 }
