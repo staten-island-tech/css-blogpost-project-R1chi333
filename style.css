@@ -13,11 +13,11 @@ body{
     text-align: center;
     font-size: 6.5rem;
     color: #443742;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 70px;
+    padding-bottom: 70px;
     background-color: #EDF4ED;
     border: 5px solid #78BC61;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 .owo{
     font-size: 8rem;
@@ -29,7 +29,7 @@ body{
     color: #443742;
     border-radius: 25px;
     background-color:#EDF4ED ;
-    width: 30%;
+    width: 30vw;
     border: 5px solid #78BC61;
 
 }
@@ -42,8 +42,13 @@ body{
 }
 
 #pls{
-    position: fixed;
+    position: absolute;
     bottom: 0;
     right: 0;
     height: 100px;
+}
+a{
+    font-size: 20px;
+    position: relative;
+    bottom: 10px;
 }
